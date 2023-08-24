@@ -1,6 +1,12 @@
 package com.checkpoint;
 
 public class Calculator {
+
+    public static void main(String[] args){
+
+        System.out.println("Build in Docker succesful");
+
+    }
     
     public static float addition(float N1, float N2){
         
