@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-24T14:36:07Z" name="Surefire suite" finished-at="2023-08-24T14:36:07Z" duration-ms="25">
+    <groups>
+    </groups>
+    <test started-at="2023-08-24T14:36:07Z" name="Surefire test" finished-at="2023-08-24T14:36:07Z" duration-ms="25">
+      <class name="Calculator_Test">
+        <test-method signature="AdditionTest1()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T14:36:07Z" name="AdditionTest1" finished-at="2023-08-24T14:36:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdditionTest1 -->
+        <test-method signature="AdditionTest2()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T14:36:07Z" name="AdditionTest2" finished-at="2023-08-24T14:36:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdditionTest2 -->
+        <test-method signature="MultiplicationTest1()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T14:36:07Z" name="MultiplicationTest1" finished-at="2023-08-24T14:36:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MultiplicationTest1 -->
+        <test-method signature="SubstractionTest2()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T14:36:07Z" name="SubstractionTest2" finished-at="2023-08-24T14:36:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubstractionTest2 -->
+        <test-method signature="DivisionTest1()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T14:36:07Z" name="DivisionTest1" finished-at="2023-08-24T14:36:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DivisionTest1 -->
+        <test-method signature="SubstractionTest1()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T14:36:07Z" name="SubstractionTest1" finished-at="2023-08-24T14:36:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubstractionTest1 -->
+        <test-method signature="MultiplicationTest2()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T14:36:07Z" name="MultiplicationTest2" finished-at="2023-08-24T14:36:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MultiplicationTest2 -->
+        <test-method signature="DivisionTest2()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T14:36:07Z" name="DivisionTest2" finished-at="2023-08-24T14:36:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DivisionTest2 -->
+      </class> <!-- Calculator_Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
