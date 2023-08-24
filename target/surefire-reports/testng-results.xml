@@ -2,40 +2,40 @@
 <testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-24T15:39:35Z" name="Surefire suite" finished-at="2023-08-24T15:39:35Z" duration-ms="32">
+  <suite started-at="2023-08-24T16:58:09Z" name="Surefire suite" finished-at="2023-08-24T16:58:09Z" duration-ms="19">
     <groups>
     </groups>
-    <test started-at="2023-08-24T15:39:35Z" name="Surefire test" finished-at="2023-08-24T15:39:35Z" duration-ms="32">
+    <test started-at="2023-08-24T16:58:09Z" name="Surefire test" finished-at="2023-08-24T16:58:09Z" duration-ms="19">
       <class name="Calculator_Test">
-        <test-method signature="AdditionTest1()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T15:39:35Z" name="AdditionTest1" finished-at="2023-08-24T15:39:35Z" duration-ms="8" status="PASS">
+        <test-method signature="AdditionTest1()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T16:58:09Z" name="AdditionTest1" finished-at="2023-08-24T16:58:09Z" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AdditionTest1 -->
-        <test-method signature="AdditionTest2()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T15:39:35Z" name="AdditionTest2" finished-at="2023-08-24T15:39:35Z" duration-ms="0" status="PASS">
+        <test-method signature="AdditionTest2()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T16:58:09Z" name="AdditionTest2" finished-at="2023-08-24T16:58:09Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AdditionTest2 -->
-        <test-method signature="DivisionTest1()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T15:39:35Z" name="DivisionTest1" finished-at="2023-08-24T15:39:35Z" duration-ms="0" status="PASS">
+        <test-method signature="DivisionTest1()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T16:58:09Z" name="DivisionTest1" finished-at="2023-08-24T16:58:09Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DivisionTest1 -->
-        <test-method signature="DivisionTest2()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T15:39:35Z" name="DivisionTest2" finished-at="2023-08-24T15:39:35Z" duration-ms="1" status="PASS">
+        <test-method signature="DivisionTest2()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T16:58:09Z" name="DivisionTest2" finished-at="2023-08-24T16:58:09Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DivisionTest2 -->
-        <test-method signature="MultiplicationTest1()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T15:39:35Z" name="MultiplicationTest1" finished-at="2023-08-24T15:39:35Z" duration-ms="0" status="PASS">
+        <test-method signature="MultiplicationTest1()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T16:58:09Z" name="MultiplicationTest1" finished-at="2023-08-24T16:58:09Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- MultiplicationTest1 -->
-        <test-method signature="SubstractionTest2()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T15:39:35Z" name="SubstractionTest2" finished-at="2023-08-24T15:39:35Z" duration-ms="0" status="PASS">
+        <test-method signature="SubstractionTest2()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T16:58:09Z" name="SubstractionTest2" finished-at="2023-08-24T16:58:09Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SubstractionTest2 -->
-        <test-method signature="SubstractionTest1()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T15:39:35Z" name="SubstractionTest1" finished-at="2023-08-24T15:39:35Z" duration-ms="0" status="PASS">
+        <test-method signature="SubstractionTest1()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T16:58:09Z" name="SubstractionTest1" finished-at="2023-08-24T16:58:09Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SubstractionTest1 -->
-        <test-method signature="MultiplicationTest2()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T15:39:35Z" name="MultiplicationTest2" finished-at="2023-08-24T15:39:35Z" duration-ms="0" status="PASS">
+        <test-method signature="MultiplicationTest2()[pri:0, instance:Calculator_Test@36bc55de]" started-at="2023-08-24T16:58:09Z" name="MultiplicationTest2" finished-at="2023-08-24T16:58:09Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- MultiplicationTest2 -->
